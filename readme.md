@@ -22,6 +22,6 @@ Step2. Login system flow and logic
             -> The server verifies the token and if it's valid, it will overwrite the old password.
 
 Step 3. Technologies used
-        Frontend: Reactjs
-        Backend: Nodejs 
+        Frontend: Reactjs (https://github.com/ancafazakas/react-login-flow-boilerplate)
+        Backend: Nodejs (https://github.com/ancafazakas/nodejs-login-flow-boilerplate)  
         Db: MySql
